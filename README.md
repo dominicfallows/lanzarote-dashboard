@@ -1,5 +1,5 @@
 # Lanzarote Dashboard
-Dashboard showing Lanzarote webcams and airport schedule.
+Dashboard showing Lanzarote webcams, airport schedule and flight tracker map.
 
 Services used:
 
