@@ -1,0 +1,69 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #ffffff;
+  color: #333333;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+  font-size: 16px;
+  overflow: hidden;
+}
+
+.grid-container {
+  width: 100vw;
+  height: 100vw;
+}
+
+.grid-cell-* {
+  overflow: hidden;
+}
+
+.grid-cell-1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  width: 20vw;
+}
+.grid-cell-2 {
+  position: absolute;
+  top: 0;
+  left: 20vw;
+  width: 40vw;
+  height: 50vh;
+}
+.grid-cell-3 {
+  position: absolute;
+  top: 0;
+  left: 60vw;
+  width: 40vw;
+  height: 50vh;
+}
+.grid-cell-4 {
+  position: absolute;
+  top: 50vh;
+  left: 20vw;
+  width: 80vw;
+  height: 50vh;
+}
+
+.schedule .airportia-widget-arrivals iframe,
+.schedule .airportia-widget-departures iframe {
+  height: 50vh;
+  width: 20vw;
+}
+
+.airport-webcam iframe,
+.beach-webcam iframe {
+  width: 100%;
+  height: 100%;
+}
+
+.flight-map iframe {
+  width: 100%;
+  height: 100%;
+}

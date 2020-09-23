@@ -1,2 +1,2 @@
-# lanzarote-dashboard
-Dashboard showing Lanzarote webcams and airport schedule
+# Lanzarote Dashboard
+Dashboard showing Lanzarote webcams and airport schedule.
