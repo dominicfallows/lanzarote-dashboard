@@ -7,7 +7,8 @@
   "author": "Dominic Fallows <consultant@dominicfallows.uk>",
   "license": "MIT",
   "private": false,
-  "script": {
-    "open": "open -a 'Google Chrome' ./index.html"
+  "scripts": {
+    "open:mac": "open -a 'Google Chrome' ./index.html",
+    "open:win": "cmd.exe /C start ./index.html"
   }
 }
