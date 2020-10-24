@@ -1,0 +1,13 @@
+{
+  "name": "lanzarote-dashboard",
+  "version": "1.0.0",
+  "main": "index.html",
+  "description": "Dashboard showing Lanzarote webcams, airport schedule and flight tracker map",
+  "repository": "https://github.com/dominicfallows/lanzarote-dashboard",
+  "author": "Dominic Fallows <consultant@dominicfallows.uk>",
+  "license": "MIT",
+  "private": false,
+  "script": {
+    "open": "open -a 'Google Chrome' ./index.html"
+  }
+}
