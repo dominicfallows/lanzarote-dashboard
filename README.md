@@ -1,7 +1,16 @@
 # Lanzarote Dashboard
+
 Dashboard showing Lanzarote webcams, airport schedule and flight tracker map.
 
-Services used:
+## Install
+
+`yarn install`
+
+## Run
+
+`yarn serve`
+
+## Services used:
 
 - Webcams from [https://lanzarotewebcam.com](https://lanzarotewebcam.com)
 - Flight Schedule from [https://www.airportia.com](https://www.airportia.com)

@@ -8,7 +8,9 @@
   "license": "MIT",
   "private": false,
   "scripts": {
-    "open:mac": "open -a 'Google Chrome' ./index.html",
-    "open:win": "cmd.exe /C start ./index.html"
+    "serve": "serve"
+  },
+  "dependencies": {
+    "serve": "^11.3.2"
   }
 }
